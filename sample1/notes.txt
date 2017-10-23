@@ -1,0 +1,13 @@
+To create symbolic link:
+
+
+mklink /J "D:\Ekstep\Genie-Canvas\player\public\fixture-stories" "C:\Users\akshaya\Dropbox\canvas-cookbook\cookbook"
+
+
+mklink /J target-folder source-folder
+
+
+
+To clone different git account 
+
+git clone https://username:password@github.com/username/repository.git
